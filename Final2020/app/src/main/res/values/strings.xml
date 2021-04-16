@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Final 2020</string>
+    <string name="search_button_text">Search</string>
+    <string name="user_data_key">USER_DATA</string>
+    <string name="search_user_hint">Search</string>
+    <string name="user_score">Score: %1$s</string>
+    <string name="user_login">Login: %1$s</string>
+    <string name="user_id">ID: %1$s</string>
+    <string name="image_description">Avatar</string>
+    <string name="user_name">Name: %1$s</string>
+    <string name="placeholder_url">url</string>
+    <string name="url_key">URL_KEY</string>
+    <string name="menu_about">About</string>
+    <string name="github_search_v1_0_0">GitHub Search v1.0.0</string>
+    <string name="created_by_katelyn_patrick">Created by: Katelyn Patrick</string>
+    <string name="mad9132">MAD9132</string>
+    <string name="patr0142_algonquinlive_com">patr0142@algonquinlive.com</string>
+    <string name="https_github_com_patr0142">https://github.com/patr0142</string>
+    <string name="min_repos">min. # repos</string>
+    <string name="followers">followers</string>
+    <string name="page_size">page size</string>
+    <string name="min_followers">min. # followers</string>
+    <string name="repos">repos</string>
+    <string name="profilepicture">profile pic</string>
+    <string name="no_results">No results for %1$s </string>
+    <string name="location">Location: %1$s </string>
+    <string name="Company">Company: %1$s </string>
+    <string name="Followers">Followers: %1$s </string>
+    <string name="public_gists">Public gists: %1$s </string>
+    <string name="public_repos">Public repos: %1$s </string>
+    <string name="latest_update">Latest update: %1$s </string>
+    <string name="account_created">Account created: %1$s </string>
+    <string name="repos_key">REPOS_KEY</string>
+    <string name="followers_key">FOLLOWERS_KEY</string>
+    <string name="page_size_key">PAGE_SIZE_KEY</string>
+
+</resources>
